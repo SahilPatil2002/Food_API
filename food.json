@@ -1,0 +1,166 @@
+{
+    "icecream":[
+        
+            {
+                "id": "1",
+                "name": "Butterscotch Ice Cream",
+                "description": "No-churn Butterscotch Ice Cream is so easy to make with few ingredients and doesn’t require an ice cream machine. Flavored with Indian butterscotch essence, this ice cream has chunks of praline and is so good on a hot summer day! You can make the ice cream base in less than 30 minutes!",
+                "image" : "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Indian-Butterscotch-Ice-Cream-No-Churn-768x1164.jpg"
+              },
+              {
+                "id": "2",
+                "name": "Strawberry ice cream",
+                "description": "Strawberry ice cream is a flavor of ice cream made with strawberry or strawberry flavoring. It is made by blending in fresh strawberries or strawberry flavoring with the eggs, cream, vanilla, and sugar used to make ice cream.",
+                "image" :"https://www.theendlessmeal.com/wp-content/uploads/2016/07/strawberry-ice-cream-2-1025x1536.jpg"
+              },
+              {
+                "id": "3",
+                "name": "Cookies Ice Cream",
+                "description": "Richer and creamier than most store-bought varieties, our version of classic cookies and cream ice cream is quick and easy to put together.",
+                "image" :"https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2022-05/cookies-and-cream-ice-cream_0422.jpg?itok=-gxLG1uG "
+              },
+              {
+                "id": "4",
+                "name": "Chocolate ice cream",
+                "description": "Chocolate ice cream is ice cream with natural or artificial chocolate flavoring. One of the oldest flavors of ice creams, it is also one of the world's most popular. ",
+                "image" :"https://saltandbaker.com/wp-content/uploads/2018/02/Homemade-Chocolate-Ice-Cream-22.jpg "
+              },
+              {
+                "id": "5",
+                "name": "Butter pecan ice cream",
+                "description": "Butter pecan is a flavor that combines the taste of roasted pecans, butter, and vanilla. It's a popular flavor in the United States, especially for ice cream, cakes, and cookies ",
+                "image" :"https://www.simplyrecipes.com/thmb/7n24DH-_DJs7khvFxY4Pb1Lsgjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Butter-Pecan-Ice-Cream-LEAD-5-a0fd1edc9c7f47f1b340699ad4cb0365.jpg "
+              },
+              {
+                "id": "6",
+                "name": "Mango ice cream",
+                "description": "This Mango Ice Cream will be an absolute hit this summer! All you’ll need is 3 ingredients and 10 minutes of prep time – let the freezer do the rest for you! This easy homemade ice cream is super creamy and sweet, with a delicious zing from the mango, which will leave you wanting more.",
+                "image" :"https://www.funfoodfrolic.com/wp-content/uploads/2020/04/Mango-Ice-Cream-Thumbnail.jpg"
+              }
+        
+    ],
+
+    
+    "pizza":[
+      
+      {
+        "id": "1",
+        "name": "Pizza Margherita",
+        "description": "Pizza Margherita is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt, and extra-virgin olive oil.",
+        "image" : "https://eu.ooni.com/cdn/shop/articles/20220211142754-margherita-9920.jpg?crop=center&height=800&v=1644590277&width=800"
+      },
+      {
+        "id": "2",
+        "name": "BBQ Chicken Pizza",
+        "description": "This is a recipe for classic BBQ chicken pizza with tangy BBQ sauce, chicken, and red onion. Gouda cheese gives the homemade pizza the most delicious smoky flavor and cilantro adds a touch of freshness.",
+        "image" :"https://www.orchidsandsweettea.com/wp-content/uploads/2022/09/BBQ-Chicken-Butternut-Squash-Pizza-5-of-7-500x500.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Neapolitan pizza",
+        "description": "Neapolitan pizza, also known as Naples-style pizza, is a style of pizza made with tomatoes and mozzarella cheese. The tomatoes must be either San Marzano tomatoes or Pomodorino del Piennolo del Vesuvio, which grow on the volcanic plains to the south of Mount Vesuvius.",
+        "image" :"https://www.seriouseats.com/thmb/xiXNRtRcipa1zSjmKO4iGdM0b24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2017__04__20170411-pizza-oven-testing-roccbox-best-c7f2acbecbb047c0b3b74e1835a77f03.jpg "
+      },
+      {
+        "id": "4",
+        "name": "Farmhouse pizza",
+        "description": "Farmhouse Pizza. Veggie lovers will certainly fall in love with our Domino's Farmhouse pizza. This delicious pizza has the best and the freshest tomatoes",
+        "image" :"https://img-global.cpcdn.com/recipes/4f330bd6f8a38f79/680x482cq70/farmhouse-pizza-recipe-main-photo.jpg "
+      },
+      {
+        "id": "5",
+        "name": "Deluxe veggie pizza",
+        "description": "Easy on the spices but high on vegetables, our deluxe veggie pizza is made using the goodness of onions, capsicum, mushrooms, paneer, and golden corn.",
+        "image" :"https://www.twopeasandtheirpod.com/wp-content/uploads/2021/03/Veggie-Pizza-8-500x375.jpg "
+      },
+      {
+        "id": "6",
+        "name": "Peppy Paneer Pizza",
+        "description": "Peppy Paneer Pizza ... Our peppy paneer pizza Domino's is loaded with chunky paneer pieces, spiced red pepper, cheese, and crispy capsicum as toppings.",
+        "image" :"https://b.zmtcdn.com/data/dish_photos/d4d/1e2d9d3538e0017cf20b9d243b224d4d.jpg"
+      }
+    ],
+
+
+    "burger":[
+      {
+                "id": "1",
+                "name": "Cheeseburger",
+                "description": "A cheeseburger is a hamburger with a slice of melted cheese on top of the meat patty, added near the end of the cooking time. Cheeseburgers can include variations in structure, ingredients and composition.",
+                "image" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSN-x5AA9Yn9PRAbjzQS-BkE7VQRR9OXOYI3ArYv95XMQZvsXf"
+              },
+              {
+                "id": "2",
+                "name": "Veggie Burger",
+                "description": "A veggie burger is a hamburger made with a patty that does not contain meat, or the patty of such a hamburger. The patty may be made from ingredients like beans, nuts, grains, seeds, or fungi such as mushrooms or mycoprotein.",
+                "image" :"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_zI4CPKEqpicE8OEBH72nqG6Xjj21WdE_OMEGUlB5EnFk9BZH"
+              },
+              {
+                "id": "3",
+                "name": "Black Bean Burger",
+                "description": "This black bean burger recipe is going to be your new best friend. The hearty patties are charred on the outside, tender in the middle, and packed with bold, smoky flavor. But that’s not all. ",
+                "image" :"https://cdn.loveandlemons.com/wp-content/uploads/2020/07/black-bean-burger-1.jpg"
+              },
+              {
+                "id": "4",
+                "name": "Whopper",
+                "description": "The Whopper is the signature hamburger and an associated product line sold by the international fast food restaurant chain Burger King and its Australian franchise Hungry Jack's. Introduced in 1957, the hamburger has undergone several reformulations, including changes to portion size and bread used.",
+                "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHmPO5Qy2KaV9TvCdLmvLu9yUM5GQxOUAw2vFIpL4s5gRop-0J76XxMqHfoQyLamhdRWk&usqp=CAU"
+              },
+              {
+                "id": "5",
+                "name": "Turkey burgers",
+                "description": "Turkey burgers are much leaner than hamburgers, but they can be dry and dull. Moisten them by adding ketchup and a bit of grated onion to the ground turkey — or mayonnaise and a bit of mustard. The idea is to emphasize condiments, and keep the turkey moist.",
+                "image" :"https://hips.hearstapps.com/hmg-prod/images/turkey-burger-index-64873e8770b34.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*"
+              },
+              {
+                "id": "6",
+                "name": "Mushroom burger",
+                "description": "Big, juicy Swiss Mushroom Burgers are a mighty vegetarian burger that at first glance, looks like a beef burger! Faster to make than my signature Veggie Burgers, large mushrooms are roasted with garlic butter, topped with Swiss cheese then stuffed into fully loaded soft rolls",
+                "image" :"https://thecozyapron.com/wp-content/uploads/2022/02/portobello-mushroom-burger_thecozyapron_1.jpg"
+              }
+    ],
+
+
+    "salad":[
+      {
+        "id": "1",
+        "name": "Greek salad",
+        "description": "Greek salad or horiatiki salad is a popular salad in Greek cuisine generally made with pieces of tomatoes, cucumbers, onion, feta cheese, and olives and dressed with salt, Greek oregano, and olive oil. Common additions include green bell pepper slices or caper berries.",
+        "image" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW-kTEqNQCFU65QIzL4STmSkZ1-mW-aIl7ENj4ZZ_tgNj_upHE"
+      },
+      {
+        "id": "2",
+        "name": "Caesar salad",
+        "description": "A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its original form, this salad was prepared and served tableside.",
+        "image" :"https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQ-ctRkqMb-cNmlw-1NQDrk7EjCbCVDrziu50UZ9cXZuYZe20uDfTmmBJMg7dMmdCGvtt44vEvmg6WzYlM"
+      },
+      {
+        "id": "3",
+        "name": "Shopska salad",
+        "description": "Shopska salad is a cold salad popular throughout Southeastern Europe. This is Bulgaria's most famous salad and national dish, whose colors recall the Bulgarian flag.",
+        "image" :"https://images.food52.com/_7SnwBMx8wCOtteUcF4HYMB87KA=/1008x672/filters:format(webp)/1fbaa930-6087-4721-b896-9ab844608cfe--2019-1008_classic-shopska-salata_3x2_james-ransom-105.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Vegan Broccoli Salad",
+        "description": "This Vegan Broccoli Salad is creamy, crunchy, sweet, and salty. Made with vegan bacon bits and a Cashew & Apple Cider Vinegar Dressing, this No-Mayo Broccoli Salad is a healthier version of the potluck classic! Perfect for sharing at your next BBQ, cookout, or holiday party.",
+        "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzW8YuSX-Wp35-7pCPiZ5Nud2gYxBrUUdATbeVNGk6c4gUEYJuKX1tctCRhFVQoB7b0NY&usqp=CAU"
+      },
+      {
+        "id": "5",
+        "name": "Tortellini Salad",
+        "description": "A tomato-rich dressing boosts the flavor and lowers calories and fat in this tortellini salad (the dressing is also great on green salads or grilled fish). Roasted red peppers, artichoke hearts and sun-dried tomatoes add a good dose of vitamins A, C and fiber.",
+        "image" :"https://www.eatingwell.com/thmb/2l5teVPibOe383QeULBBjRfmeVw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7798756-498dbfb42bfb4fa7bf969ce03e09ce2d.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Panzanella",
+        "description": "Panzanella or panmolle is a Tuscan and Umbrian chopped salad of soaked stale bread, onions and tomatoes that is popular in the summer. It often includes cucumbers, sometimes basil and is dressed with olive oil and vinegar. It is also popular in other parts of central Italy.",
+        "image" :"https://carlsbadcravings.com/wp-content/uploads/2021/08/Panzanella-Salad-recipe-6-500x500.jpg"
+      }
+    ]
+    
+
+    
+}
