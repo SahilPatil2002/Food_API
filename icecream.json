@@ -1,1 +1,42 @@
-
+{
+    "icecream":[
+        
+            {
+                "id": 1,
+                "name": "Butterscotch Ice Cream",
+                "description": "No-churn Butterscotch Ice Cream is so easy to make with few ingredients and doesn’t require an ice cream machine. Flavored with Indian butterscotch essence, this ice cream has chunks of praline and is so good on a hot summer day! You can make the ice cream base in less than 30 minutes!",
+                "image" : "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Indian-Butterscotch-Ice-Cream-No-Churn-768x1164.jpg"
+              },
+              {
+                "id": 2,
+                "name": "Strawberry ice cream",
+                "description": "Strawberry ice cream is a flavor of ice cream made with strawberry or strawberry flavoring. It is made by blending in fresh strawberries or strawberry flavoring with the eggs, cream, vanilla, and sugar used to make ice cream.",
+                "image" :"https://www.theendlessmeal.com/wp-content/uploads/2016/07/strawberry-ice-cream-2-1025x1536.jpg"
+              },
+              {
+                "id": 3,
+                "name": "Cookies Ice Cream",
+                "description": "Richer and creamier than most store-bought varieties, our version of classic cookies and cream ice cream is quick and easy to put together.",
+                "image" :"https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2022-05/cookies-and-cream-ice-cream_0422.jpg?itok=-gxLG1uG "
+              },
+              {
+                "id": 4,
+                "name": "Chocolate ice cream",
+                "description": "Chocolate ice cream is ice cream with natural or artificial chocolate flavoring. One of the oldest flavors of ice creams, it is also one of the world's most popular. ",
+                "image" :"https://saltandbaker.com/wp-content/uploads/2018/02/Homemade-Chocolate-Ice-Cream-22.jpg "
+              },
+              {
+                "id": 5,
+                "name": "Butter pecan ice cream",
+                "description": "Butter pecan is a flavor that combines the taste of roasted pecans, butter, and vanilla. It's a popular flavor in the United States, especially for ice cream, cakes, and cookies ",
+                "image" :"https://www.simplyrecipes.com/thmb/7n24DH-_DJs7khvFxY4Pb1Lsgjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Butter-Pecan-Ice-Cream-LEAD-5-a0fd1edc9c7f47f1b340699ad4cb0365.jpg "
+              },
+              {
+                "id": 6,
+                "name": "Mango ice cream",
+                "description": "This Mango Ice Cream will be an absolute hit this summer! All you’ll need is 3 ingredients and 10 minutes of prep time – let the freezer do the rest for you! This easy homemade ice cream is super creamy and sweet, with a delicious zing from the mango, which will leave you wanting more.",
+                "image" :"https://www.funfoodfrolic.com/wp-content/uploads/2020/04/Mango-Ice-Cream-Thumbnail.jpg"
+              }
+        
+    ]
+}
